@@ -1,0 +1,6 @@
+sudo: false
+language: node_js
+node_js:
+  - "iojs"
+before_install:
+  - cd koa && npm install && cd ..
