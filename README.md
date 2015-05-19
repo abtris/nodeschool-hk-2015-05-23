@@ -1,4 +1,4 @@
-# NodeSchool 23.5.2015
+# NodeSchool 23.5.2015 [![Build Status](https://travis-ci.org/abtris/nodeschool-hk-2015-05-23.svg?branch=master)](https://travis-ci.org/abtris/nodeschool-hk-2015-05-23)
 
 ## Comparison nodejs frameworks
 
