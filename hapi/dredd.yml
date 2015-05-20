@@ -3,9 +3,9 @@ custom:
   apiaryApiKey: b2e56e9d42811043be252968f850b5df
   apiaryApiName: nodeschoolhk
 dry-run: null
-hookfiles: [koa-dredd-hook.js]
+hookfiles: [hapi-dredd-hook.js]
 sandbox: false
-server: node koa/index.js
+server: node index.js
 server-wait: 3
 init: false
 names: false
@@ -22,5 +22,5 @@ level: info
 timestamp: false
 silent: false
 path: []
-blueprint: nodeschoolhk-apiary.apib
-endpoint: 'http://localhost:3000'
+blueprint: ../nodeschoolhk-apiary.apib
+endpoint: 'http://localhost:3001'
