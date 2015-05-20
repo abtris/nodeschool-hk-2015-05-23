@@ -2,11 +2,6 @@
 
 ## Comparison nodejs frameworks
 
-### Loopback
-- [http://loopback.io/](http://loopback.io/)
-- [https://github.com/strongloop/loopback](https://github.com/strongloop/loopback)
-- [http://www.slideshare.net/Bajtos/loopback-a-productivity-booster-for-mean](http://www.slideshare.net/Bajtos/loopback-a-productivity-booster-for-mean)
-
 ### ExpressJS
 - [http://expressjs.com/](http://expressjs.com/)
 - [https://github.com/strongloop/express](https://github.com/strongloop/express)
