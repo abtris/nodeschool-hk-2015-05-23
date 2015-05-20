@@ -1,14 +1,10 @@
 {
-  "name": "koa",
+  "name": "hapi",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "koa": "^0.20.0",
-    "koa-json": "^1.1.1",
-    "koa-logger": "^1.2.2",
-    "koa-qs": "^2.0.0",
-    "koa-route": "^2.4.1"
+    "hapi": "^8.4.0"
   },
   "devDependencies": {},
   "scripts": {
