@@ -6,5 +6,6 @@ before_install:
   - npm install -g dredd
   - cd koa && npm install && cd ..
   - cd hapi && npm install && cd ..
+  - cd express && npm install && cd ..
 script:
   - ./test.sh
