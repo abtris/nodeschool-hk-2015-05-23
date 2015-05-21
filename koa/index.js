@@ -1,13 +1,10 @@
 "use strict";
-
 var koa = require('koa');
 var route = require('koa-route');
-var json = require('koa-json');
 var logger = require('koa-logger');
 var app = koa();
 require('koa-qs')(app);
 app.use(logger());
-app.use(json());
 
 // Polls API Root
 // Retrieve the Entry Point

@@ -3,7 +3,7 @@ custom:
   apiaryApiKey: b2e56e9d42811043be252968f850b5df
   apiaryApiName: nodeschoolhk
 dry-run: null
-hookfiles: [hapi-dredd-hook.js]
+hookfiles: '../dredd-hook.js'
 sandbox: false
 server: node index.js
 server-wait: 3
